@@ -1,4 +1,5 @@
 line d1
 
+line d4 =
 amaan
 assignment
